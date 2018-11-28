@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a792aff4-fc9b-453e-9f29-317268505fb2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_example.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/graphs.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +25,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="graphs.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="graphs.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/graphs.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -34,6 +33,16 @@
               <folding>
                 <element signature="e#0#33#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="131" lean-forward="false" selection-start-line="4" selection-start-column="131" selection-end-line="4" selection-end-column="131" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -55,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/basic_example.py" />
         <option value="$PROJECT_DIR$/graphs.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -219,6 +229,14 @@
           <folding>
             <element signature="e#0#33#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="131" lean-forward="false" selection-start-line="4" selection-start-column="131" selection-end-line="4" selection-end-column="131" />
+          <folding />
         </state>
       </provider>
     </entry>
